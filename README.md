@@ -5,6 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuraggawande1719" alt="anuraggawande1719" /></a> </p>
 
+- 🔭 I’m currently working on **GAINNS**
+
+- 🌱 I’m currently learning Django,SQL,HTML,CSS,Javasrcipt
+
+- 👨🏻‍💻 I’m looking to collaborate on Car Rental System
+
+- 🤝 I’m looking for help with To Become A Full Stack Developer
+
+- 💬 Ask me about anything, I am happy to help.
+
+- 📫 How to reach me anuraggawande2001@gmail.com
+
+- 📄 Know about my experiences https://drive.google.com/file/d/1zZos2uy-JtdLBYYk4VCCI9Lj-2GZeSAa/view?usp=drivesdk
+
+- ⚡ Fun fact The first 1GB hard disk came into existence in 1980,and it weighed over 550 pounds.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/anurag-gawande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/anurag-gawande" height="30" width="40" /></a>
