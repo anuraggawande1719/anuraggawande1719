@@ -11,7 +11,7 @@
 
 - 👨🏻‍💻 I’m looking to collaborate on Car Rental System
 
-- 🤝 I’m looking for help with To Become A Full Stack Developer
+- 🤝 I’m looking for help To Become A Full Stack Developer
 
 - 💬 Ask me about anything, I am happy to help.
 
