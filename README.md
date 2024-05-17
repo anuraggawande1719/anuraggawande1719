@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuraggawande1719" alt="anuraggawande1719" /></a> </p>
 
-- 🔭 I’m currently working on **GAINNS**
+- 🔭 I’m currently working on **GAINS**
 
 - 🌱 I’m currently learning Django,SQL,HTML,CSS,Javasrcipt
 
