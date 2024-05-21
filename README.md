@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm ANURAG</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
@@ -24,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/anurag-gawande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/anurag-gawande" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anurag-gawande-476840279/?midSig=3p8Ulbg4aFPX41&eid=iukgii-lrn271u4-u3&midToken=AQFXJIPM0hJIwA&trkEmail=eml-email_account_security_alert_01-header-0-profile_glimmer-null-iukgii%7Elrn271u4%7Eu3-null-null&trk=eml-email_account_security_alert_01-header-0-profile_glimmer&originalSubdomain=in&midToken=AQFXJIPM0hJIwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anurag-gawande-476840279/?midSig=3p8Ulbg4aFPX41&eid=iukgii-lrn271u4-u3&midToken=AQFXJIPM0hJIwA&trkEmail=eml-email_account_security_alert_01-header-0-profile_glimmer-null-iukgii%7Elrn271u4%7Eu3-null-null&trk=eml-email_account_security_alert_01-header-0-profile_glimmer&originalSubdomain=in&midToken=AQFXJIPM0hJIwA" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/anuraggawande17?igsh=mxq4anzzdhp3ntjtaa==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anuraggawande17?igsh=mxq4anzzdhp3ntjtaa==" height="30" width="40" /></a>
 </p>
 
