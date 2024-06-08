@@ -2,9 +2,13 @@
 <h1 align="center">Hi 👋, I'm ANURAG</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuraggawande1719&label=Profile%20views&color=0e75b6&style=flat" alt="anuraggawande1719" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuraggawande1719" alt="anuraggawande1719" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://github.com/anuraggawande1719/anuraggawande1719/blob/main/Anu.jpg">
+
 
 - 🔭 I’m currently working on **GAINS**
 
