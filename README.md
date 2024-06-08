@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning Django,SQL,HTML,CSS,Javasrcipt
 
-- 👨🏻‍💻 I’m looking to collaborate on Car Rental System
+- 👨🏻‍💻 I’m looking to collaborate on Python Projects
 
 - 🤝 I’m looking for help To Become A Full Stack Developer
 
