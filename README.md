@@ -18,7 +18,7 @@
 
 - 📫 How to reach me anuraggawande2001@gmail.com
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1e3nAi_JGsmWUmg29ygadI4zXAMKA4mpx/view?usp=drive_link
+- 📄 Know about my experiences https://drive.google.com/file/d/1LzD3y0lNDWZLzGL-62IP-_AMGQ1iJApc/view?usp=drive_link
 
 - ⚡ Fun fact The first 1GB hard disk came into existence in 1980,and it weighed over 550 pounds.
 
