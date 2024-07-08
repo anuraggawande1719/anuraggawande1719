@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuraggawande1719" alt="anuraggawande1719" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/anuraggawande1719/anuraggawande1719/blob/main/Anu.jpg">
+<img align="right" alt="Coding" width="400" src="https://github.com/anuraggawande1719/anuraggawande1719/blob/main/git%20hub%20gif.gif">
 
 
 - 🔭 I’m currently working on **GAINS**
